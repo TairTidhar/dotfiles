@@ -8,14 +8,23 @@
 		"A File Icon",
 		"AdvancedNewFile",
 		"All Autocomplete",
+		"AutoFileName",
 		"Babel",
+		"Babel Snippets",
 		"Emmet",
+		"Emmet Css Snippets",
 		"ERB Snippets",
 		"Git",
 		"GitGutter",
+		"Package Bundler",
 		"Package Control",
+		"ProductiveSnippetsERB",
+		"Sass",
 		"SCSS",
 		"SublimeLinter",
-		"SublimeLinter-rubocop"
+		"SublimeLinter-annotations",
+		"SublimeLinter-contrib-ruby-lint",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby"
 	]
 }
